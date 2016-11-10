@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git has a master branch.
 Git was or is sample.
 Git test branch.
+Git was dev.
